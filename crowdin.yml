@@ -1,0 +1,3 @@
+files:
+  - source: /FifteenMay/langs/en.yaml
+    translation: /FifteenMay/langs/%two_letters_code%.json
